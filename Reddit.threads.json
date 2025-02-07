@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67a577761f0707f834d52d8f"
+  },
+  "title": "daw",
+  "content": "dawd",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a578711f0707f834d52d94"
+  },
+  "title": "Jebonne",
+  "content": "Yes my name is jebonne, A 4th year BSIT student",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comments": [],
+  "__v": 0
+}]
