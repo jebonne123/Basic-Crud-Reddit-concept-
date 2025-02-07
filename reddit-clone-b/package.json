@@ -1,0 +1,20 @@
+{
+  "name": "reddit-clone-b",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.10.0",
+    "next": "15.1.6",
+    "next-connect": "^1.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
