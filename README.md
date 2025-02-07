@@ -2,11 +2,13 @@
 
 ## 🖼️ Preview Images
 
-### 🎨 Frontend UI
-![Frontend UI](https://github.com/jebonne123/Basic-Crud-Reddit-concept/blob/main/PreviewImages/front.png)
+### Frontend UI
+
+![front](https://github.com/user-attachments/assets/83dfc9e8-edbf-4067-920a-9e7b3aac0f23)
 
 ### 🗄️ Database
-![Database](https://github.com/jebonne123/Basic-Crud-Reddit-concept/blob/main/PreviewImages/db.png)
 
+
+![db](https://github.com/user-attachments/assets/ed80b417-6e8e-4e6e-850f-99eb6108cc46)
 
 
